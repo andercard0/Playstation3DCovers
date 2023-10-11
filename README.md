@@ -9,6 +9,9 @@ Archive containing 2,235 covers of Playstation 1 games to be used in the Ducksta
 Results example:
 ![image](https://github.com/andercard0/Playstation3DCovers/assets/43047877/7410d040-521e-4c2e-ad8b-621d717a3654)
 
+Duckstation:<br>
+https://www.duckstation.org/windl.html
+
 Resources:
 If you cannot unzip the file because it is in 7zip format, download and install 7zip program below.
 <br> Versão 64bits https://www.7-zip.org/a/7z2301-x64.exe
