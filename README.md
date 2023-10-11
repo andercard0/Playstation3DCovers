@@ -7,4 +7,5 @@ Archive containing 2,235 covers of Playstation 1 games to be used in the Ducksta
 <br>
 
 Results example:
-![image](https://github.com/andercard0/Playstation3DCovers/assets/43047877/657bfd81-269a-4e28-a233-64b648306732)
+![image](https://github.com/andercard0/Playstation3DCovers/assets/43047877/7410d040-521e-4c2e-ad8b-621d717a3654)
+
