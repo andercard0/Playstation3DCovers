@@ -14,5 +14,5 @@ https://www.duckstation.org/windl.html
 
 Resources:
 If you cannot unzip the file because it is in 7zip format, download and install 7zip program below.
-<br> Versão 64bits https://www.7-zip.org/a/7z2301-x64.exe
-<br> Versão 32bits https://www.7-zip.org/a/7z2301.exe
+<br> Version 64bits https://www.7-zip.org/a/7z2301-x64.exe
+<br> Version 32bits https://www.7-zip.org/a/7z2301.exe
